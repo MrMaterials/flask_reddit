@@ -1,7 +1,7 @@
 flask\_reddit
 =============
 
-**flask_reddit** is an extendable + minimalist [Reddit](http://reddit.com) clone.
+**flask_reddit** is an extendable + minimalist [Hoverboard Black Friday](https://bestelectrichoverboard.com/hoverboard-deals/black-friday-and-cyber-monday-hoverboard-deals-2016/) clone.
 
 This was built so beginners who want a standard CRUD + reddit-like application
 can quickly get to work.
